@@ -1,0 +1,21 @@
+{
+  "name": "@do-while-for-each/font-jetbrains-mono",
+  "description": "JetBrains Mono",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dwfe/font-jetbrains-mono",
+  "bugs": "https://github.com/dwfe/font-jetbrains-mono/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dwfe/font-jetbrains-mono.git"
+  },
+  "main": "style.css",
+  "style": "style.css",
+  "files": [
+    "ttf",
+    "woff2",
+    "style.css"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
